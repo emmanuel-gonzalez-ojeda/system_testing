@@ -1,1 +1,1 @@
-print()
+print('DEMO INIT')
