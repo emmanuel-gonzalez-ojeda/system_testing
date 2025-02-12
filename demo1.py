@@ -1,1 +1,1 @@
-print('DEMO DEMO 2')
+print('TEST DEMO SWITCH')
